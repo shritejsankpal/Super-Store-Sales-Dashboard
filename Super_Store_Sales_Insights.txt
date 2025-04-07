@@ -1,0 +1,52 @@
+
+SUPER STORE SALES DASHBOARD - INSIGHTS
+
+🔍 High-Level KPIs (Top Row)
+- Sales: 1.57M
+- Orders: 5.1K
+- Profits: 175K
+- Sales Regions: 4
+Note: Rename “Sales” (value 4) to “Regions” for clarity.
+
+💳 Sales by Payment Mode
+- Credit Card (43%) dominates.
+- Cash (35%) and Bank Transfer (22%) follow.
+Insight: Offer incentives for alternative payment methods.
+
+🌎 Sales by Region
+- Highest: 33% (522K), Lowest: 2% (34K)
+Actionable: Investigate underperforming regions.
+
+🧩 Sales by Segment
+- Consumer (48%), Corporate (33%), Home Office (19%)
+Strategy: Boost B2B campaigns for Corporate segment.
+
+🗓️ Sales Trend (Month & Year Comparison)
+- Seasonal peaks in Nov & Dec
+- Upward trend from 2019 to 2020
+Tip: Use for inventory/staffing planning.
+
+📦 Sales by Shipping Mode
+- Standard Class: 60%
+- Same Day: Only 5%
+Insight: Promote premium shipping options.
+
+🗺️ Sales by State
+- Highest sales in East & West Coast (CA, NY)
+Tip: Analyze demographics or marketing spend impact.
+
+📚 Sales by Category
+- Office Supplies: $640K
+- Technology & Furniture: ~$450K each
+Insight: Cross-promote tech + office supplies.
+
+📊 Top Sub-Categories
+- Phones: 197K, Chairs: 182K, Binders: 175K, Storage: 150K
+Tip: Focus procurement & promos around top sub-categories.
+
+✅ Dashboard Improvement Suggestions
+- Rename “Sales: 4” to “Regions”
+- Add trend indicators (% change YoY)
+- Include filters for time/product lines
+- Add profit by segment/category chart
+
